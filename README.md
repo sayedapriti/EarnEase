@@ -83,7 +83,7 @@ No real payments are processed through this prototype.
 
 - HTML
 - CSS
-- Vanilla JavaScript
+-  JavaScript
 - localStorage
 
 ## How to Run

@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>EarnEase — Flexible work for students</title>
+<script src="https://cdn.tailwindcss.com"></script>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -1024,6 +1025,12 @@ textarea:focus{
   }
 }
 </style>
+<!--
+  EarnEase Tailwind setup:
+  Tailwind CDN is loaded above. Existing visual CSS is intentionally preserved
+  so the UI, colors, orbit layout, responsive behavior, and JavaScript remain
+  unchanged. This is the safe baseline for a pixel-preserving conversion.
+-->
 </head>
 
 <body>
@@ -1093,7 +1100,7 @@ textarea:focus{
         >
 
         <button
-          class="btn btn-primary"
+          class="bg-[#5C7057] text-white px-5 py-3 rounded-lg hover:bg-[#89A482]"
           style="width:100%"
           onclick="welcomeLogin()"
         >
