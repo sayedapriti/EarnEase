@@ -2,9 +2,9 @@
 
 **EarnEase** is a web-based dashboard project designed to provide a clean and user-friendly interface for managing team information, match results, standings, and related activities.
 
-🔗 **Live Website:** https://sayedapriti.github.io/EarnEase/
+🔗 **Live Website:**  https://sayedapriti.github.io/EarnEase/
 
-📂 **GitHub Repository:** https://github.com/sayedapriti/EarnEase
+📂 **GitHub Repository:** https://github.com/sayedapriti/EarnEase.git
 
 ## ✨ Features
 
@@ -29,18 +29,11 @@
 
 Visit the live project here:
 
-👉 https://sayedapriti.github.io/EarnEase/
+👉  https://sayedapriti.github.io/EarnEase/
 
 
-## 🌐 Deployment
-
-The project is hosted using **GitHub Pages**.
-
-Updates pushed to the configured GitHub Pages branch can be published to the live website automatically.
 
 
-## 👩‍💻 Author
 
-**Sayeda Priti**
 
-GitHub: https://github.com/sayedapriti
+
